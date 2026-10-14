@@ -95,9 +95,9 @@ Easily keep track of aptitude tests, interviews, and other recruitment events �
 **Vaishnavi Kanade**  
 Built using **Emergent Platform** with a simple frontend and backend structure.
 
-🔗 **GitHub:** [Vaishnavi-1525](https://github.com/Vaishnavi-1525)  
-🌐 **App Platform:** [Emergent](https://app.emergent.sh/)
-🚀 **Live App:** [next-step-tracker-orpin.vercel.app](https://next-step-tracker-orpin.vercel.app/)  
+- 🔗 **GitHub:** [Vaishnavi-1525](https://github.com/Vaishnavi-1525)  
+- 🌐 **App Platform:** [Emergent](https://app.emergent.sh/)
+- 🚀 **Live App:** [next-step-tracker-orpin.vercel.app](https://next-step-tracker-orpin.vercel.app/)  
 
 
 ---
